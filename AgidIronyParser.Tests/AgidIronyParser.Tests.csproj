@@ -66,7 +66,7 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\..\AgidIronyParser\AgidIronyParser.csproj">
+    <ProjectReference Include="..\AgidIronyParser\AgidIronyParser.csproj">
       <Project>{1205D17E-2385-4717-8735-F73F175E988A}</Project>
       <Name>AgidIronyParser</Name>
     </ProjectReference>

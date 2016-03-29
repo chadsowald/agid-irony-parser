@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.24720.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AgidIronyParser", "..\AgidIronyParser\AgidIronyParser.csproj", "{1205D17E-2385-4717-8735-F73F175E988A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AgidIronyParser", "AgidIronyParser\AgidIronyParser.csproj", "{1205D17E-2385-4717-8735-F73F175E988A}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AgidIronyParser.Tests", "AgidIronyParser.Tests\AgidIronyParser.Tests.csproj", "{84C5538D-BF9C-492A-B1BA-6AB283E1D6D1}"
 EndProject
